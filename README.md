@@ -1,14 +1,11 @@
 
 <h1 align="center">Hi there, I'm Kristina! 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/KristinaPavlovska/banner.png" alt="Banner" width="600px">
-</p>
 
 ## 🚀 About Me
-- 🎓 I'm a 1st-year Computer Science student passionate about **AI, Data Engineering, and Software Development**.
+- 🎓 I'm a 1st-year Communication Technology student passionate about **AI, Data Engineering, and Software Development**.
 - 💻 Currently learning **C++ & Python**.
-- 🌱 Interested in **Machine Learning & Neuroscience**.
+- 🌱 Interested in **Artificial Intelligence**.
 - 📫 Reach me on **Instagram: [@kristina__pavlovska](https://instagram.com/kristina__pavlovska)**.
 
 ---
@@ -17,7 +14,7 @@
 **Languages & Frameworks:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
 
 **Development Tools:**  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
