@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-- 🎓 I'm a 1st-year Communication Technology student passionate about **AI, Data Engineering, and Software Development**.
+- 🎓 I'm a 1st-year Communication Technology student passionate about **AI and Software Development**.
 - 💻 Currently learning **C++ & Python**.
 - 🌱 Interested in **Artificial Intelligence**.
 - 📫 Reach me on **Instagram: [@kristina__pavlovska](https://instagram.com/kristina__pavlovska)**.
