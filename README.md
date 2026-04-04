@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kristina! 👋</h1>
 
 ## 🚀 About Me
-- 🎓 I'm a second year Communication Technology student passionate about **AI and Software Development**.
+- 🎓 I'm a second year Communication Technology student.
 - 🌱 Interested in **Artificial Intelligence** and **Web Development**.
 - 🔌 Tinkering with **electronics** — microcontrollers and breadboard projects.
 - 💼 Reach me on **LinkedIn: [Kristina Pavlovska](https://www.linkedin.com/in/pavlovskakristina/)**.
