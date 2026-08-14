@@ -32,7 +32,7 @@ I'm still exploring where tech will take me, but I'm drawn to the intersection o
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pavlovskakristina&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pavlovskakristina&show_icons=true&theme=radical" />
   <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavlovskakristina&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavlovskakristina&layout=compact&theme=radical" />
 </p>
